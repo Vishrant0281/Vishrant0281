@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android and Web Development & Designing
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 You cat reach me at vishrant.epizy.com or else You can Mail me on vishrantpatel0281@gmail.com or vrank988@rku.ac.in
+- 📫 You can reach me at https://vishrant.epizy.com or else You can Mail me on vishrantpatel0281@gmail.com or vrank988@rku.ac.in
 
 <!---
 Vishrant0281/Vishrant0281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
