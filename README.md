@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Vishrant0281
-- 👀 I’m interested in Android and Web Development & Designing
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hello there, I’m Vishrant Rank.
+- 💞️ I’m interested in Web Development.
 - 📫 You can reach me at https://vishrant.epizy.com or else You can Mail me on vishrantpatel0281@gmail.com or vrank988@rku.ac.in
 
 <!---
